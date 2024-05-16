@@ -1,0 +1,4 @@
+package flappybirdinjava;
+
+class AppTest {
+}
